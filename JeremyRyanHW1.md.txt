@@ -3,6 +3,9 @@
 ## Item 1: Your first story, when you learn to push and pull. 
 I want you to submit your story, as well as your git log.
 
+## Ryan Contribution
+I think this is where I am supposed to put this
+
 ### Story: It was a dark and stormy night
 
 ### Git log: 
