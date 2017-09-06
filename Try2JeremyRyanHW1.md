@@ -7,6 +7,9 @@ I want you to submit your story, as well as your git log.
 
 Jeremy: It was still a dark and stormy night. It seems to happen often.
 
+## Ryan Contribution
+I think this is where I am supposed to put this
+
 ### Git Log:
 
 ```sh
